@@ -2,7 +2,9 @@
 
 ###
 
-<a href="shadman-portfolio-2024.vercel.app" align="center">PORTFOLIO</a>
+<div align="center">
+<a href="shadman-portfolio-2024.vercel.app">PORTFOLIO</a>
+</div>
 
 ###
 
