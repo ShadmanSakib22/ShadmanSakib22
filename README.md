@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">[PORTFOLIO](shadman-portfolio-2024.vercel.app)</p>
+<a href="shadman-portfolio-2024.vercel.app" align="center">PORTFOLIO</a>
 
 ###
 
