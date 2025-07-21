@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<a href="shadman-portfolio-2024.vercel.app">PORTFOLIO</a>
+<a href="https://shadman-portfolio-2024.vercel.app" target="_blank">PORTFOLIO</a>
 </div>
 
 ###
